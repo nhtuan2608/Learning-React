@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.clsUp {
+  color: white;
+  background-color: red;
+}
+.clsDown {
+  color: white;
+  background-color: black;
+}
+.clsChild {
+  color: antiquewhite ;
+}
